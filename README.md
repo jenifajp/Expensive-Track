@@ -1,4 +1,4 @@
-# Expensive-Track
+# Expensive-Tracker
 💰 Expense Tracker – Core Java Project
 📌 Project Overview
 
